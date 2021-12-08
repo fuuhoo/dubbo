@@ -14,7 +14,7 @@ setup(
             "bitstring>=3.1.5",
             "python_hessian>=1.0.2"
         ],
-    long_description=open('README.rst').read(),
+#     long_description=open('README.rst').read(),
     author='zhangliming',
     author_email='149151874@qq.com',
     maintainer='zhangliming',
